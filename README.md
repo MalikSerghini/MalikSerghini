@@ -1,4 +1,4 @@
-### Hi there, I'm Malik 👋
+<img width="100%" src='/.github/images/banner.png' alt="banner"></img>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalikSerghini&show_icons=true&theme=github_dark&border_color=313131"/>
