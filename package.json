@@ -1,0 +1,17 @@
+{
+  "name": "githubportfolio",
+  "version": "1.0.0",
+  "description": "<!-- <img alt=\"\" src=\"./content/banner_1.png\" /> --> <!-- <img alt=\"\" src=\"./content/banner_test.png\" /> --> <img alt=\"Banner\" src=\"./content/banner/banner.png\" />",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mustache": "^4.2.0",
+    "node-fetch": "^3.3.2"
+  }
+}
