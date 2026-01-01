@@ -2,7 +2,7 @@
 
 ### Welcome, I'm Malik! <img height="20" width="20" alt="" src="./content/gif/Hi.gif" />
 
-I'm a Full Stack Developer located in Berlin. I established this account **4 Years and 2 Month** ago to concentrate on some fun projects.
+I'm a Full Stack Developer located in Berlin. I established this account **4 Years and 3 Month** ago to concentrate on some fun projects.
 
 Feel free to browse around.<br>
 Perhaps you'll discover something that interests you!
